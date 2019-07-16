@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "version": "0.0.0",
+    "name": "JoyCar",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -8,11 +8,14 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "JoyCar.ts",
+        "namespace.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:bee7efe3-09c7-4241-eb16-d9630e495d94"
 }
